@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Casual UvA</title>
+        <link rel="icon" href="/logo.jpg" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Casual UvA" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        We are a collective of employees on temporary contracts, including representatives from a range of departments, at the University of Amsterdam.
         </p>
       </main>
 
