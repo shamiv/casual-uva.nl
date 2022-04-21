@@ -16,8 +16,9 @@ export default function Home() {
         We are a collective of employees on temporary contracts, including representatives from a range of departments, at the University of Amsterdam.
         </p>
         <p>
-        On February 1 2022 <a href="https://casualacademy.nl/news/breaking-news-casual-uva-announces-a-marking-strike-at-national-demonstration/">we announced a collective grading strike</a>.
+        On April 1 2022 <a href="https://casualacademy.nl/news/breaking-news-casual-uva-announces-a-marking-strike-at-national-demonstration/">we announced a collective grading strike</a>.
         </p>
+       
       </main>
 
       <Footer />
